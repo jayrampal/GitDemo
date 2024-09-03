@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-servernew",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "JRAMPALLY",
+      "title": "Automation Lead",
+      "subid": 3,
+      "id": 1
+    },
+    {
+      "name": "SRAMPALLY",
+      "title": "Automation Dev",
+      "subid": 2,
+      "id": 2
+    },
+    {
+      "subid": 3,
+      "name": "SAHASRA",
+      "title": "Classical Dancer",
+      "id": 3
+    },
+    {
+      "subid": 4,
+      "name": "RSIDDHARTH",
+      "title": "SDET Engineer",
+      "id": 4
+    },
+    {
+      "subid": 4,
+      "name": "RJASHWANTH",
+      "title": "SDET Engineer",
+      "id": 5
+    },
+    {
+      "subid": 4,
+      "name": "RJASHWANTH",
+      "title": "SDET Engineer",
+      "id": 6
+    },
+    {
+      "subid": 4,
+      "name": "RJASHWANTH",
+      "title": "SDET Engineer",
+      "id": 7
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Probability",
+      "id": 1
+    },
+    {
+      "name": "Statistics",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
