@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISCE",
   "dependencies": {
     "selenium-webdriver": "^4.9.1"
   }
